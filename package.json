@@ -1,0 +1,10 @@
+{
+  "name": "wechat-pay-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "wechat-pay-v3": "^1.0.0"
+  }
+}
